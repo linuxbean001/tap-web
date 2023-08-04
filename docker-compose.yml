@@ -1,0 +1,21 @@
+version: '3.5'
+
+services:
+  tapdb.local:
+    container_name: tap-db
+    image: postgres:${PG_VERSION}
+    ports:
+      - '${PG_PORT}:5432'
+    environment:
+      POSTGRES_USER: ${PG_USERNAME}
+      POSTGRES_PASSWORD: ${PG_PASSWORD}
+      POSTGRES_DB: ${PG_DATABASE}
+    volumes:
+      - tap-db-data:/var/lib/postgresql/data/
+    command: >
+      -c ssl=on
+      -c ssl_cert_file=/etc/ssl/certs/ssl-cert-snakeoil.pem
+      -c ssl_key_file=/etc/ssl/private/ssl-cert-snakeoil.key
+
+volumes:
+  tap-db-data:

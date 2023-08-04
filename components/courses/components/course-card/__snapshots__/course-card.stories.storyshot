@@ -1,0 +1,738 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tab-web-platform pages/Courses/CourseCard As Draft 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <div
+        class="h-full justify-between relative bg-gray-1 flex flex-col"
+      >
+        <div
+          class="flex h-full"
+        >
+          <div
+            class="bg-gray-11 inline-block w-full pb-4"
+          >
+            <svg
+              class="inline-block w-2/3"
+              fill="none"
+              viewBox="0 0 265 170"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M-57 -231.534C-57 -262.167 -30.4945 -287 2.2018 -287H205.798C238.494 -287 265 -262.167 265 -231.534V48.4614C265 67.988 254.041 86.0761 236.146 96.0856L104 170L-28.1456 96.0856C-46.0408 86.0761 -57 67.988 -57 48.4614V-231.534ZM2.2018 -257.238C-12.9501 -257.238 -25.2332 -245.73 -25.2332 -231.534V48.4614C-25.2332 57.5103 -20.1545 65.8926 -11.8616 70.5312L104 135.337L219.862 70.5312C228.155 65.8926 233.233 57.5103 233.233 48.4614V-231.534C233.233 -245.73 220.95 -257.238 205.798 -257.238H2.2018Z"
+                fill="#E5E7EB"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </div>
+        </div>
+        <div>
+          <div
+            class="p-4 bg-gray-13"
+          >
+            <h4
+              class="font-body text-md font-bold p-2"
+            >
+              Basic Electronics
+            </h4>
+            <div
+              class="px-4 py-2 absolute right-0 top-0 text-sm bg-blue-4 text-dark-primary"
+            >
+              Coming Soon
+            </div>
+            <div
+              class="flex flex-row p-2 text-dark-tertiary text-sm"
+            >
+              <span
+                class="flex items-center justify-items-center text-dark-tertiary text-sm"
+              >
+                <span>
+                  <svg
+                    class="inline mr-2"
+                    fill="none"
+                    height="16"
+                    viewBox="0 0 16 16"
+                    width="16"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M8.75 3.5C8.75 3.08579 8.41421 2.75 8 2.75C7.58579 2.75 7.25 3.08579 7.25 3.5H8.75ZM8 8H7.25C7.25 8.41421 7.58579 8.75 8 8.75V8ZM11.375 8.75C11.7892 8.75 12.125 8.41421 12.125 8C12.125 7.58579 11.7892 7.25 11.375 7.25V8.75ZM14 8C14 11.3137 11.3137 14 8 14V15.5C12.1421 15.5 15.5 12.1421 15.5 8H14ZM8 14C4.68629 14 2 11.3137 2 8H0.5C0.5 12.1421 3.85786 15.5 8 15.5V14ZM2 8C2 4.68629 4.68629 2 8 2V0.5C3.85786 0.5 0.5 3.85786 0.5 8H2ZM8 2C11.3137 2 14 4.68629 14 8H15.5C15.5 3.85786 12.1421 0.5 8 0.5V2ZM7.25 3.5V8H8.75V3.5H7.25ZM11.375 7.25H8V8.75H11.375V7.25Z"
+                      fill="#111827"
+                      fill-opacity="0.42"
+                    />
+                  </svg>
+                </span>
+                60 minutes
+              </span>
+              <span
+                class="inline-block px-2"
+              />
+              <span
+                class="flex items-center justify-items-center text-dark-tertiary text-sm"
+              >
+                <span>
+                  <svg
+                    class="inline mr-2"
+                    fill="none"
+                    height="16"
+                    viewBox="0 0 18 18"
+                    width="16"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M5.07324 15.6164L5.65219 16.0932H5.65219L5.07324 15.6164ZM2.38358 12.9268L2.86036 13.5057L2.86036 13.5057L2.38358 12.9268ZM14.3268 1.9858L14.8571 2.51613C15.0312 2.34202 15.1088 2.09353 15.0646 1.85129C15.0205 1.60904 14.8602 1.40391 14.6359 1.30244L14.3268 1.9858ZM11.8696 4.44298L11.3393 3.91265C11.1567 4.09528 11.0809 4.35905 11.1386 4.61078L11.8696 4.44298ZM13.5571 6.13048L13.3893 6.86146C13.6411 6.91925 13.9048 6.84344 14.0875 6.66081L13.5571 6.13048ZM16.0143 3.67334L16.6976 3.36431C16.5962 3.13995 16.391 2.97968 16.1488 2.93551C15.9065 2.89134 15.6581 2.96889 15.4839 3.14301L16.0143 3.67334ZM8.89624 7.56339L9.37302 8.14234H9.37302L8.89624 7.56339ZM9.57462 5.35058L8.82729 5.41376L9.57462 5.35058ZM12.6494 8.42538L12.7126 7.67804L12.6494 8.42538ZM10.4366 9.10376L9.85766 8.62698L10.4366 9.10376ZM3.65043 14.3438V13.5938C3.23621 13.5938 2.90043 13.9296 2.90043 14.3438H3.65043ZM3.65605 14.3438H4.40605C4.40605 13.9296 4.07026 13.5938 3.65605 13.5938V14.3438ZM3.65605 14.3494V15.0994C4.07026 15.0994 4.40605 14.7636 4.40605 14.3494H3.65605ZM3.65043 14.3494H2.90043C2.90043 14.7636 3.23621 15.0994 3.65043 15.0994V14.3494ZM12.9375 9.1875C15.2157 9.1875 17.0625 7.34067 17.0625 5.0625H15.5625C15.5625 6.51225 14.3872 7.6875 12.9375 7.6875V9.1875ZM12.5862 9.17271C12.7022 9.18251 12.8194 9.1875 12.9375 9.1875V7.6875C12.8616 7.6875 12.7866 7.6843 12.7126 7.67804L12.5862 9.17271ZM9.85766 8.62698L4.49429 15.1396L5.65219 16.0932L11.0156 9.58054L9.85766 8.62698ZM4.49429 15.1396C4.2738 15.4074 3.94512 15.5625 3.59826 15.5625V17.0625C4.39334 17.0625 5.14675 16.7069 5.65219 16.0932L4.49429 15.1396ZM3.59826 15.5625C2.95719 15.5625 2.4375 15.0428 2.4375 14.4017H0.9375C0.9375 15.8712 2.12876 17.0625 3.59826 17.0625V15.5625ZM2.4375 14.4017C2.4375 14.0549 2.59261 13.7262 2.86036 13.5057L1.9068 12.3478C1.29305 12.8532 0.9375 13.6067 0.9375 14.4017H2.4375ZM2.86036 13.5057L9.37302 8.14234L8.41946 6.98444L1.9068 12.3478L2.86036 13.5057ZM8.8125 5.0625C8.8125 5.18065 8.81749 5.29781 8.82729 5.41376L10.322 5.28741C10.3157 5.21343 10.3125 5.13843 10.3125 5.0625H8.8125ZM12.9375 0.9375C10.6593 0.9375 8.8125 2.78433 8.8125 5.0625H10.3125C10.3125 3.61275 11.4878 2.4375 12.9375 2.4375V0.9375ZM14.6359 1.30244C14.117 1.06776 13.5414 0.9375 12.9375 0.9375V2.4375C13.3241 2.4375 13.6892 2.52059 14.0177 2.66916L14.6359 1.30244ZM12.4 4.97331L14.8571 2.51613L13.7965 1.45547L11.3393 3.91265L12.4 4.97331ZM13.7249 5.39949C13.1683 5.27171 12.7284 4.83179 12.6006 4.27517L11.1386 4.61078C11.395 5.72766 12.2724 6.60507 13.3893 6.86146L13.7249 5.39949ZM15.4839 3.14301L13.0268 5.60015L14.0875 6.66081L16.5446 4.20367L15.4839 3.14301ZM17.0625 5.0625C17.0625 4.45863 16.9323 3.88316 16.6976 3.36431L15.3309 3.98237C15.4794 4.31085 15.5625 4.67596 15.5625 5.0625H17.0625ZM9.37302 8.14234C10.2975 7.38099 10.3951 6.1522 10.322 5.28741L8.82729 5.41376C8.89055 6.16214 8.74467 6.71662 8.41946 6.98444L9.37302 8.14234ZM12.7126 7.67804C11.8478 7.60494 10.619 7.70249 9.85766 8.62698L11.0156 9.58054C11.2834 9.25533 11.8379 9.10945 12.5862 9.17271L12.7126 7.67804ZM3.65043 15.0938H3.65605V13.5938H3.65043V15.0938ZM2.90605 14.3438V14.3494H4.40605V14.3438H2.90605ZM3.65605 13.5994H3.65043V15.0994H3.65605V13.5994ZM4.40043 14.3494V14.3438H2.90043V14.3494H4.40043Z"
+                      fill="#111827"
+                      fill-opacity="0.42"
+                    />
+                  </svg>
+                </span>
+                Intermediate
+              </span>
+            </div>
+            <div
+              class="p-2 text-dark-secondary text-sm"
+            >
+              <p>
+                The most interesting course ever.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="h-full justify-between relative bg-gray-1 flex flex-col"
+    >
+      <div
+        class="flex h-full"
+      >
+        <div
+          class="bg-gray-11 inline-block w-full pb-4"
+        >
+          <svg
+            class="inline-block w-2/3"
+            fill="none"
+            viewBox="0 0 265 170"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M-57 -231.534C-57 -262.167 -30.4945 -287 2.2018 -287H205.798C238.494 -287 265 -262.167 265 -231.534V48.4614C265 67.988 254.041 86.0761 236.146 96.0856L104 170L-28.1456 96.0856C-46.0408 86.0761 -57 67.988 -57 48.4614V-231.534ZM2.2018 -257.238C-12.9501 -257.238 -25.2332 -245.73 -25.2332 -231.534V48.4614C-25.2332 57.5103 -20.1545 65.8926 -11.8616 70.5312L104 135.337L219.862 70.5312C228.155 65.8926 233.233 57.5103 233.233 48.4614V-231.534C233.233 -245.73 220.95 -257.238 205.798 -257.238H2.2018Z"
+              fill="#E5E7EB"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </div>
+      </div>
+      <div>
+        <div
+          class="p-4 bg-gray-13"
+        >
+          <h4
+            class="font-body text-md font-bold p-2"
+          >
+            Basic Electronics
+          </h4>
+          <div
+            class="px-4 py-2 absolute right-0 top-0 text-sm bg-blue-4 text-dark-primary"
+          >
+            Coming Soon
+          </div>
+          <div
+            class="flex flex-row p-2 text-dark-tertiary text-sm"
+          >
+            <span
+              class="flex items-center justify-items-center text-dark-tertiary text-sm"
+            >
+              <span>
+                <svg
+                  class="inline mr-2"
+                  fill="none"
+                  height="16"
+                  viewBox="0 0 16 16"
+                  width="16"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M8.75 3.5C8.75 3.08579 8.41421 2.75 8 2.75C7.58579 2.75 7.25 3.08579 7.25 3.5H8.75ZM8 8H7.25C7.25 8.41421 7.58579 8.75 8 8.75V8ZM11.375 8.75C11.7892 8.75 12.125 8.41421 12.125 8C12.125 7.58579 11.7892 7.25 11.375 7.25V8.75ZM14 8C14 11.3137 11.3137 14 8 14V15.5C12.1421 15.5 15.5 12.1421 15.5 8H14ZM8 14C4.68629 14 2 11.3137 2 8H0.5C0.5 12.1421 3.85786 15.5 8 15.5V14ZM2 8C2 4.68629 4.68629 2 8 2V0.5C3.85786 0.5 0.5 3.85786 0.5 8H2ZM8 2C11.3137 2 14 4.68629 14 8H15.5C15.5 3.85786 12.1421 0.5 8 0.5V2ZM7.25 3.5V8H8.75V3.5H7.25ZM11.375 7.25H8V8.75H11.375V7.25Z"
+                    fill="#111827"
+                    fill-opacity="0.42"
+                  />
+                </svg>
+              </span>
+              60 minutes
+            </span>
+            <span
+              class="inline-block px-2"
+            />
+            <span
+              class="flex items-center justify-items-center text-dark-tertiary text-sm"
+            >
+              <span>
+                <svg
+                  class="inline mr-2"
+                  fill="none"
+                  height="16"
+                  viewBox="0 0 18 18"
+                  width="16"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M5.07324 15.6164L5.65219 16.0932H5.65219L5.07324 15.6164ZM2.38358 12.9268L2.86036 13.5057L2.86036 13.5057L2.38358 12.9268ZM14.3268 1.9858L14.8571 2.51613C15.0312 2.34202 15.1088 2.09353 15.0646 1.85129C15.0205 1.60904 14.8602 1.40391 14.6359 1.30244L14.3268 1.9858ZM11.8696 4.44298L11.3393 3.91265C11.1567 4.09528 11.0809 4.35905 11.1386 4.61078L11.8696 4.44298ZM13.5571 6.13048L13.3893 6.86146C13.6411 6.91925 13.9048 6.84344 14.0875 6.66081L13.5571 6.13048ZM16.0143 3.67334L16.6976 3.36431C16.5962 3.13995 16.391 2.97968 16.1488 2.93551C15.9065 2.89134 15.6581 2.96889 15.4839 3.14301L16.0143 3.67334ZM8.89624 7.56339L9.37302 8.14234H9.37302L8.89624 7.56339ZM9.57462 5.35058L8.82729 5.41376L9.57462 5.35058ZM12.6494 8.42538L12.7126 7.67804L12.6494 8.42538ZM10.4366 9.10376L9.85766 8.62698L10.4366 9.10376ZM3.65043 14.3438V13.5938C3.23621 13.5938 2.90043 13.9296 2.90043 14.3438H3.65043ZM3.65605 14.3438H4.40605C4.40605 13.9296 4.07026 13.5938 3.65605 13.5938V14.3438ZM3.65605 14.3494V15.0994C4.07026 15.0994 4.40605 14.7636 4.40605 14.3494H3.65605ZM3.65043 14.3494H2.90043C2.90043 14.7636 3.23621 15.0994 3.65043 15.0994V14.3494ZM12.9375 9.1875C15.2157 9.1875 17.0625 7.34067 17.0625 5.0625H15.5625C15.5625 6.51225 14.3872 7.6875 12.9375 7.6875V9.1875ZM12.5862 9.17271C12.7022 9.18251 12.8194 9.1875 12.9375 9.1875V7.6875C12.8616 7.6875 12.7866 7.6843 12.7126 7.67804L12.5862 9.17271ZM9.85766 8.62698L4.49429 15.1396L5.65219 16.0932L11.0156 9.58054L9.85766 8.62698ZM4.49429 15.1396C4.2738 15.4074 3.94512 15.5625 3.59826 15.5625V17.0625C4.39334 17.0625 5.14675 16.7069 5.65219 16.0932L4.49429 15.1396ZM3.59826 15.5625C2.95719 15.5625 2.4375 15.0428 2.4375 14.4017H0.9375C0.9375 15.8712 2.12876 17.0625 3.59826 17.0625V15.5625ZM2.4375 14.4017C2.4375 14.0549 2.59261 13.7262 2.86036 13.5057L1.9068 12.3478C1.29305 12.8532 0.9375 13.6067 0.9375 14.4017H2.4375ZM2.86036 13.5057L9.37302 8.14234L8.41946 6.98444L1.9068 12.3478L2.86036 13.5057ZM8.8125 5.0625C8.8125 5.18065 8.81749 5.29781 8.82729 5.41376L10.322 5.28741C10.3157 5.21343 10.3125 5.13843 10.3125 5.0625H8.8125ZM12.9375 0.9375C10.6593 0.9375 8.8125 2.78433 8.8125 5.0625H10.3125C10.3125 3.61275 11.4878 2.4375 12.9375 2.4375V0.9375ZM14.6359 1.30244C14.117 1.06776 13.5414 0.9375 12.9375 0.9375V2.4375C13.3241 2.4375 13.6892 2.52059 14.0177 2.66916L14.6359 1.30244ZM12.4 4.97331L14.8571 2.51613L13.7965 1.45547L11.3393 3.91265L12.4 4.97331ZM13.7249 5.39949C13.1683 5.27171 12.7284 4.83179 12.6006 4.27517L11.1386 4.61078C11.395 5.72766 12.2724 6.60507 13.3893 6.86146L13.7249 5.39949ZM15.4839 3.14301L13.0268 5.60015L14.0875 6.66081L16.5446 4.20367L15.4839 3.14301ZM17.0625 5.0625C17.0625 4.45863 16.9323 3.88316 16.6976 3.36431L15.3309 3.98237C15.4794 4.31085 15.5625 4.67596 15.5625 5.0625H17.0625ZM9.37302 8.14234C10.2975 7.38099 10.3951 6.1522 10.322 5.28741L8.82729 5.41376C8.89055 6.16214 8.74467 6.71662 8.41946 6.98444L9.37302 8.14234ZM12.7126 7.67804C11.8478 7.60494 10.619 7.70249 9.85766 8.62698L11.0156 9.58054C11.2834 9.25533 11.8379 9.10945 12.5862 9.17271L12.7126 7.67804ZM3.65043 15.0938H3.65605V13.5938H3.65043V15.0938ZM2.90605 14.3438V14.3494H4.40605V14.3438H2.90605ZM3.65605 13.5994H3.65043V15.0994H3.65605V13.5994ZM4.40043 14.3494V14.3438H2.90043V14.3494H4.40043Z"
+                    fill="#111827"
+                    fill-opacity="0.42"
+                  />
+                </svg>
+              </span>
+              Intermediate
+            </span>
+          </div>
+          <div
+            class="p-2 text-dark-secondary text-sm"
+          >
+            <p>
+              The most interesting course ever.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`tab-web-platform pages/Courses/CourseCard As Published 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <a
+        class="hover:underline"
+        href="/courses/crs-123"
+      >
+        <div
+          class="h-full justify-between relative bg-gray-1 flex flex-col"
+        >
+          <div
+            class="flex h-full"
+          >
+            <div
+              class="bg-gray-11 inline-block w-full pb-4"
+            >
+              <svg
+                class="inline-block w-2/3"
+                fill="none"
+                viewBox="0 0 265 170"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M-57 -231.534C-57 -262.167 -30.4945 -287 2.2018 -287H205.798C238.494 -287 265 -262.167 265 -231.534V48.4614C265 67.988 254.041 86.0761 236.146 96.0856L104 170L-28.1456 96.0856C-46.0408 86.0761 -57 67.988 -57 48.4614V-231.534ZM2.2018 -257.238C-12.9501 -257.238 -25.2332 -245.73 -25.2332 -231.534V48.4614C-25.2332 57.5103 -20.1545 65.8926 -11.8616 70.5312L104 135.337L219.862 70.5312C228.155 65.8926 233.233 57.5103 233.233 48.4614V-231.534C233.233 -245.73 220.95 -257.238 205.798 -257.238H2.2018Z"
+                  fill="#E5E7EB"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div>
+            <div
+              class="p-4 bg-gray-13"
+            >
+              <h4
+                class="font-body text-md font-bold p-2"
+              >
+                Basic Electronics
+              </h4>
+              <div
+                class="px-4 py-2 absolute right-0 top-0 text-sm bg-gray-5 text-dark-primary"
+              >
+                Electronics
+              </div>
+              <div
+                class="flex flex-row p-2 text-dark-tertiary text-sm"
+              >
+                <span
+                  class="flex items-center justify-items-center text-dark-tertiary text-sm"
+                >
+                  <span>
+                    <svg
+                      class="inline mr-2"
+                      fill="none"
+                      height="16"
+                      viewBox="0 0 16 16"
+                      width="16"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M8.75 3.5C8.75 3.08579 8.41421 2.75 8 2.75C7.58579 2.75 7.25 3.08579 7.25 3.5H8.75ZM8 8H7.25C7.25 8.41421 7.58579 8.75 8 8.75V8ZM11.375 8.75C11.7892 8.75 12.125 8.41421 12.125 8C12.125 7.58579 11.7892 7.25 11.375 7.25V8.75ZM14 8C14 11.3137 11.3137 14 8 14V15.5C12.1421 15.5 15.5 12.1421 15.5 8H14ZM8 14C4.68629 14 2 11.3137 2 8H0.5C0.5 12.1421 3.85786 15.5 8 15.5V14ZM2 8C2 4.68629 4.68629 2 8 2V0.5C3.85786 0.5 0.5 3.85786 0.5 8H2ZM8 2C11.3137 2 14 4.68629 14 8H15.5C15.5 3.85786 12.1421 0.5 8 0.5V2ZM7.25 3.5V8H8.75V3.5H7.25ZM11.375 7.25H8V8.75H11.375V7.25Z"
+                        fill="#111827"
+                        fill-opacity="0.42"
+                      />
+                    </svg>
+                  </span>
+                  60 minutes
+                </span>
+                <span
+                  class="inline-block px-2"
+                />
+                <span
+                  class="flex items-center justify-items-center text-dark-tertiary text-sm"
+                >
+                  <span>
+                    <svg
+                      class="inline mr-2"
+                      fill="none"
+                      height="16"
+                      viewBox="0 0 18 18"
+                      width="16"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M5.07324 15.6164L5.65219 16.0932H5.65219L5.07324 15.6164ZM2.38358 12.9268L2.86036 13.5057L2.86036 13.5057L2.38358 12.9268ZM14.3268 1.9858L14.8571 2.51613C15.0312 2.34202 15.1088 2.09353 15.0646 1.85129C15.0205 1.60904 14.8602 1.40391 14.6359 1.30244L14.3268 1.9858ZM11.8696 4.44298L11.3393 3.91265C11.1567 4.09528 11.0809 4.35905 11.1386 4.61078L11.8696 4.44298ZM13.5571 6.13048L13.3893 6.86146C13.6411 6.91925 13.9048 6.84344 14.0875 6.66081L13.5571 6.13048ZM16.0143 3.67334L16.6976 3.36431C16.5962 3.13995 16.391 2.97968 16.1488 2.93551C15.9065 2.89134 15.6581 2.96889 15.4839 3.14301L16.0143 3.67334ZM8.89624 7.56339L9.37302 8.14234H9.37302L8.89624 7.56339ZM9.57462 5.35058L8.82729 5.41376L9.57462 5.35058ZM12.6494 8.42538L12.7126 7.67804L12.6494 8.42538ZM10.4366 9.10376L9.85766 8.62698L10.4366 9.10376ZM3.65043 14.3438V13.5938C3.23621 13.5938 2.90043 13.9296 2.90043 14.3438H3.65043ZM3.65605 14.3438H4.40605C4.40605 13.9296 4.07026 13.5938 3.65605 13.5938V14.3438ZM3.65605 14.3494V15.0994C4.07026 15.0994 4.40605 14.7636 4.40605 14.3494H3.65605ZM3.65043 14.3494H2.90043C2.90043 14.7636 3.23621 15.0994 3.65043 15.0994V14.3494ZM12.9375 9.1875C15.2157 9.1875 17.0625 7.34067 17.0625 5.0625H15.5625C15.5625 6.51225 14.3872 7.6875 12.9375 7.6875V9.1875ZM12.5862 9.17271C12.7022 9.18251 12.8194 9.1875 12.9375 9.1875V7.6875C12.8616 7.6875 12.7866 7.6843 12.7126 7.67804L12.5862 9.17271ZM9.85766 8.62698L4.49429 15.1396L5.65219 16.0932L11.0156 9.58054L9.85766 8.62698ZM4.49429 15.1396C4.2738 15.4074 3.94512 15.5625 3.59826 15.5625V17.0625C4.39334 17.0625 5.14675 16.7069 5.65219 16.0932L4.49429 15.1396ZM3.59826 15.5625C2.95719 15.5625 2.4375 15.0428 2.4375 14.4017H0.9375C0.9375 15.8712 2.12876 17.0625 3.59826 17.0625V15.5625ZM2.4375 14.4017C2.4375 14.0549 2.59261 13.7262 2.86036 13.5057L1.9068 12.3478C1.29305 12.8532 0.9375 13.6067 0.9375 14.4017H2.4375ZM2.86036 13.5057L9.37302 8.14234L8.41946 6.98444L1.9068 12.3478L2.86036 13.5057ZM8.8125 5.0625C8.8125 5.18065 8.81749 5.29781 8.82729 5.41376L10.322 5.28741C10.3157 5.21343 10.3125 5.13843 10.3125 5.0625H8.8125ZM12.9375 0.9375C10.6593 0.9375 8.8125 2.78433 8.8125 5.0625H10.3125C10.3125 3.61275 11.4878 2.4375 12.9375 2.4375V0.9375ZM14.6359 1.30244C14.117 1.06776 13.5414 0.9375 12.9375 0.9375V2.4375C13.3241 2.4375 13.6892 2.52059 14.0177 2.66916L14.6359 1.30244ZM12.4 4.97331L14.8571 2.51613L13.7965 1.45547L11.3393 3.91265L12.4 4.97331ZM13.7249 5.39949C13.1683 5.27171 12.7284 4.83179 12.6006 4.27517L11.1386 4.61078C11.395 5.72766 12.2724 6.60507 13.3893 6.86146L13.7249 5.39949ZM15.4839 3.14301L13.0268 5.60015L14.0875 6.66081L16.5446 4.20367L15.4839 3.14301ZM17.0625 5.0625C17.0625 4.45863 16.9323 3.88316 16.6976 3.36431L15.3309 3.98237C15.4794 4.31085 15.5625 4.67596 15.5625 5.0625H17.0625ZM9.37302 8.14234C10.2975 7.38099 10.3951 6.1522 10.322 5.28741L8.82729 5.41376C8.89055 6.16214 8.74467 6.71662 8.41946 6.98444L9.37302 8.14234ZM12.7126 7.67804C11.8478 7.60494 10.619 7.70249 9.85766 8.62698L11.0156 9.58054C11.2834 9.25533 11.8379 9.10945 12.5862 9.17271L12.7126 7.67804ZM3.65043 15.0938H3.65605V13.5938H3.65043V15.0938ZM2.90605 14.3438V14.3494H4.40605V14.3438H2.90605ZM3.65605 13.5994H3.65043V15.0994H3.65605V13.5994ZM4.40043 14.3494V14.3438H2.90043V14.3494H4.40043Z"
+                        fill="#111827"
+                        fill-opacity="0.42"
+                      />
+                    </svg>
+                  </span>
+                  Intermediate
+                </span>
+              </div>
+              <div
+                class="p-2 text-dark-secondary text-sm"
+              >
+                <p>
+                  The most interesting course ever.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+      </a>
+    </div>
+  </body>,
+  "container": <div>
+    <a
+      class="hover:underline"
+      href="/courses/crs-123"
+    >
+      <div
+        class="h-full justify-between relative bg-gray-1 flex flex-col"
+      >
+        <div
+          class="flex h-full"
+        >
+          <div
+            class="bg-gray-11 inline-block w-full pb-4"
+          >
+            <svg
+              class="inline-block w-2/3"
+              fill="none"
+              viewBox="0 0 265 170"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M-57 -231.534C-57 -262.167 -30.4945 -287 2.2018 -287H205.798C238.494 -287 265 -262.167 265 -231.534V48.4614C265 67.988 254.041 86.0761 236.146 96.0856L104 170L-28.1456 96.0856C-46.0408 86.0761 -57 67.988 -57 48.4614V-231.534ZM2.2018 -257.238C-12.9501 -257.238 -25.2332 -245.73 -25.2332 -231.534V48.4614C-25.2332 57.5103 -20.1545 65.8926 -11.8616 70.5312L104 135.337L219.862 70.5312C228.155 65.8926 233.233 57.5103 233.233 48.4614V-231.534C233.233 -245.73 220.95 -257.238 205.798 -257.238H2.2018Z"
+                fill="#E5E7EB"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </div>
+        </div>
+        <div>
+          <div
+            class="p-4 bg-gray-13"
+          >
+            <h4
+              class="font-body text-md font-bold p-2"
+            >
+              Basic Electronics
+            </h4>
+            <div
+              class="px-4 py-2 absolute right-0 top-0 text-sm bg-gray-5 text-dark-primary"
+            >
+              Electronics
+            </div>
+            <div
+              class="flex flex-row p-2 text-dark-tertiary text-sm"
+            >
+              <span
+                class="flex items-center justify-items-center text-dark-tertiary text-sm"
+              >
+                <span>
+                  <svg
+                    class="inline mr-2"
+                    fill="none"
+                    height="16"
+                    viewBox="0 0 16 16"
+                    width="16"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M8.75 3.5C8.75 3.08579 8.41421 2.75 8 2.75C7.58579 2.75 7.25 3.08579 7.25 3.5H8.75ZM8 8H7.25C7.25 8.41421 7.58579 8.75 8 8.75V8ZM11.375 8.75C11.7892 8.75 12.125 8.41421 12.125 8C12.125 7.58579 11.7892 7.25 11.375 7.25V8.75ZM14 8C14 11.3137 11.3137 14 8 14V15.5C12.1421 15.5 15.5 12.1421 15.5 8H14ZM8 14C4.68629 14 2 11.3137 2 8H0.5C0.5 12.1421 3.85786 15.5 8 15.5V14ZM2 8C2 4.68629 4.68629 2 8 2V0.5C3.85786 0.5 0.5 3.85786 0.5 8H2ZM8 2C11.3137 2 14 4.68629 14 8H15.5C15.5 3.85786 12.1421 0.5 8 0.5V2ZM7.25 3.5V8H8.75V3.5H7.25ZM11.375 7.25H8V8.75H11.375V7.25Z"
+                      fill="#111827"
+                      fill-opacity="0.42"
+                    />
+                  </svg>
+                </span>
+                60 minutes
+              </span>
+              <span
+                class="inline-block px-2"
+              />
+              <span
+                class="flex items-center justify-items-center text-dark-tertiary text-sm"
+              >
+                <span>
+                  <svg
+                    class="inline mr-2"
+                    fill="none"
+                    height="16"
+                    viewBox="0 0 18 18"
+                    width="16"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M5.07324 15.6164L5.65219 16.0932H5.65219L5.07324 15.6164ZM2.38358 12.9268L2.86036 13.5057L2.86036 13.5057L2.38358 12.9268ZM14.3268 1.9858L14.8571 2.51613C15.0312 2.34202 15.1088 2.09353 15.0646 1.85129C15.0205 1.60904 14.8602 1.40391 14.6359 1.30244L14.3268 1.9858ZM11.8696 4.44298L11.3393 3.91265C11.1567 4.09528 11.0809 4.35905 11.1386 4.61078L11.8696 4.44298ZM13.5571 6.13048L13.3893 6.86146C13.6411 6.91925 13.9048 6.84344 14.0875 6.66081L13.5571 6.13048ZM16.0143 3.67334L16.6976 3.36431C16.5962 3.13995 16.391 2.97968 16.1488 2.93551C15.9065 2.89134 15.6581 2.96889 15.4839 3.14301L16.0143 3.67334ZM8.89624 7.56339L9.37302 8.14234H9.37302L8.89624 7.56339ZM9.57462 5.35058L8.82729 5.41376L9.57462 5.35058ZM12.6494 8.42538L12.7126 7.67804L12.6494 8.42538ZM10.4366 9.10376L9.85766 8.62698L10.4366 9.10376ZM3.65043 14.3438V13.5938C3.23621 13.5938 2.90043 13.9296 2.90043 14.3438H3.65043ZM3.65605 14.3438H4.40605C4.40605 13.9296 4.07026 13.5938 3.65605 13.5938V14.3438ZM3.65605 14.3494V15.0994C4.07026 15.0994 4.40605 14.7636 4.40605 14.3494H3.65605ZM3.65043 14.3494H2.90043C2.90043 14.7636 3.23621 15.0994 3.65043 15.0994V14.3494ZM12.9375 9.1875C15.2157 9.1875 17.0625 7.34067 17.0625 5.0625H15.5625C15.5625 6.51225 14.3872 7.6875 12.9375 7.6875V9.1875ZM12.5862 9.17271C12.7022 9.18251 12.8194 9.1875 12.9375 9.1875V7.6875C12.8616 7.6875 12.7866 7.6843 12.7126 7.67804L12.5862 9.17271ZM9.85766 8.62698L4.49429 15.1396L5.65219 16.0932L11.0156 9.58054L9.85766 8.62698ZM4.49429 15.1396C4.2738 15.4074 3.94512 15.5625 3.59826 15.5625V17.0625C4.39334 17.0625 5.14675 16.7069 5.65219 16.0932L4.49429 15.1396ZM3.59826 15.5625C2.95719 15.5625 2.4375 15.0428 2.4375 14.4017H0.9375C0.9375 15.8712 2.12876 17.0625 3.59826 17.0625V15.5625ZM2.4375 14.4017C2.4375 14.0549 2.59261 13.7262 2.86036 13.5057L1.9068 12.3478C1.29305 12.8532 0.9375 13.6067 0.9375 14.4017H2.4375ZM2.86036 13.5057L9.37302 8.14234L8.41946 6.98444L1.9068 12.3478L2.86036 13.5057ZM8.8125 5.0625C8.8125 5.18065 8.81749 5.29781 8.82729 5.41376L10.322 5.28741C10.3157 5.21343 10.3125 5.13843 10.3125 5.0625H8.8125ZM12.9375 0.9375C10.6593 0.9375 8.8125 2.78433 8.8125 5.0625H10.3125C10.3125 3.61275 11.4878 2.4375 12.9375 2.4375V0.9375ZM14.6359 1.30244C14.117 1.06776 13.5414 0.9375 12.9375 0.9375V2.4375C13.3241 2.4375 13.6892 2.52059 14.0177 2.66916L14.6359 1.30244ZM12.4 4.97331L14.8571 2.51613L13.7965 1.45547L11.3393 3.91265L12.4 4.97331ZM13.7249 5.39949C13.1683 5.27171 12.7284 4.83179 12.6006 4.27517L11.1386 4.61078C11.395 5.72766 12.2724 6.60507 13.3893 6.86146L13.7249 5.39949ZM15.4839 3.14301L13.0268 5.60015L14.0875 6.66081L16.5446 4.20367L15.4839 3.14301ZM17.0625 5.0625C17.0625 4.45863 16.9323 3.88316 16.6976 3.36431L15.3309 3.98237C15.4794 4.31085 15.5625 4.67596 15.5625 5.0625H17.0625ZM9.37302 8.14234C10.2975 7.38099 10.3951 6.1522 10.322 5.28741L8.82729 5.41376C8.89055 6.16214 8.74467 6.71662 8.41946 6.98444L9.37302 8.14234ZM12.7126 7.67804C11.8478 7.60494 10.619 7.70249 9.85766 8.62698L11.0156 9.58054C11.2834 9.25533 11.8379 9.10945 12.5862 9.17271L12.7126 7.67804ZM3.65043 15.0938H3.65605V13.5938H3.65043V15.0938ZM2.90605 14.3438V14.3494H4.40605V14.3438H2.90605ZM3.65605 13.5994H3.65043V15.0994H3.65605V13.5994ZM4.40043 14.3494V14.3438H2.90043V14.3494H4.40043Z"
+                      fill="#111827"
+                      fill-opacity="0.42"
+                    />
+                  </svg>
+                </span>
+                Intermediate
+              </span>
+            </div>
+            <div
+              class="p-2 text-dark-secondary text-sm"
+            >
+              <p>
+                The most interesting course ever.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+    </a>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`tab-web-platform pages/Courses/CourseCard Started 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <a
+        class="hover:underline"
+        href="/courses/crs-123?courseRecordId=123"
+      >
+        <div
+          class="h-full justify-between relative bg-gray-1 flex flex-col"
+        >
+          <div
+            class="flex h-full"
+          >
+            <img
+              alt="Course Image for Basic Electronics"
+              class="w-full h-auto object-cover"
+              data-nimg="1"
+              decoding="async"
+              height="480"
+              loading="lazy"
+              src="https://images.unsplash.com/photo-1562408590-e32931084e23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=640&q=80"
+              style="color: transparent;"
+              width="640"
+            />
+          </div>
+          <div>
+            <div
+              class="p-4 bg-gray-13"
+            >
+              <h4
+                class="font-body text-md font-bold p-2"
+              >
+                Basic Electronics
+              </h4>
+              <div
+                class="px-4 py-2 absolute right-0 top-0 text-sm bg-green-5 text-white"
+              >
+                Started
+              </div>
+              <div
+                class="p-2 text-sm text-dark-tertiary flex w-full"
+              >
+                <div
+                  class="flex w-11/12 pr-2 items-center justify-items-center"
+                >
+                  <div
+                    class="bg-gray-4 w-full"
+                  >
+                    <div
+                      class="h-full px-1 bg-green-5"
+                      style="width: 44.44444444444444%; padding-top: 2px; padding-bottom: 2px;"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="inline-block w-1/12 pl-2"
+                >
+                  4
+                  /
+                  9
+                </div>
+              </div>
+              <div
+                class="p-2 text-dark-secondary text-sm"
+              >
+                <p>
+                  The most interesting course ever.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+      </a>
+    </div>
+  </body>,
+  "container": <div>
+    <a
+      class="hover:underline"
+      href="/courses/crs-123?courseRecordId=123"
+    >
+      <div
+        class="h-full justify-between relative bg-gray-1 flex flex-col"
+      >
+        <div
+          class="flex h-full"
+        >
+          <img
+            alt="Course Image for Basic Electronics"
+            class="w-full h-auto object-cover"
+            data-nimg="1"
+            decoding="async"
+            height="480"
+            loading="lazy"
+            src="https://images.unsplash.com/photo-1562408590-e32931084e23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=640&q=80"
+            style="color: transparent;"
+            width="640"
+          />
+        </div>
+        <div>
+          <div
+            class="p-4 bg-gray-13"
+          >
+            <h4
+              class="font-body text-md font-bold p-2"
+            >
+              Basic Electronics
+            </h4>
+            <div
+              class="px-4 py-2 absolute right-0 top-0 text-sm bg-green-5 text-white"
+            >
+              Started
+            </div>
+            <div
+              class="p-2 text-sm text-dark-tertiary flex w-full"
+            >
+              <div
+                class="flex w-11/12 pr-2 items-center justify-items-center"
+              >
+                <div
+                  class="bg-gray-4 w-full"
+                >
+                  <div
+                    class="h-full px-1 bg-green-5"
+                    style="width: 44.44444444444444%; padding-top: 2px; padding-bottom: 2px;"
+                  />
+                </div>
+              </div>
+              <div
+                class="inline-block w-1/12 pl-2"
+              >
+                4
+                /
+                9
+              </div>
+            </div>
+            <div
+              class="p-2 text-dark-secondary text-sm"
+            >
+              <p>
+                The most interesting course ever.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+    </a>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

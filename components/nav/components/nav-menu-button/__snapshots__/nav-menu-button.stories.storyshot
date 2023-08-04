@@ -1,0 +1,259 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tab-web-platform shared/Nav/NavMenuButton Closed 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <div
+        class="p-4 bg-yellow-4 flex items-end justify-end"
+        data-headlessui-state="open"
+      >
+        <div
+          class="-mr-2 flex items-center"
+        >
+          <button
+            aria-expanded="true"
+            class="inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-4 hover:bg-gray-1 hover:text-gray-5"
+            data-headlessui-state="open"
+            id="headlessui-disclosure-button-mock-id"
+            type="button"
+          >
+            <svg
+              aria-hidden="true"
+              class="block h-6 w-6"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="p-4 bg-yellow-4 flex items-end justify-end"
+      data-headlessui-state="open"
+    >
+      <div
+        class="-mr-2 flex items-center"
+      >
+        <button
+          aria-expanded="true"
+          class="inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-4 hover:bg-gray-1 hover:text-gray-5"
+          data-headlessui-state="open"
+          id="headlessui-disclosure-button-mock-id"
+          type="button"
+        >
+          <svg
+            aria-hidden="true"
+            class="block h-6 w-6"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.5"
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`tab-web-platform shared/Nav/NavMenuButton Open 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <div
+        class="p-4 bg-yellow-4 flex items-end justify-end"
+        data-headlessui-state="open"
+      >
+        <div
+          class="-mr-2 flex items-center"
+        >
+          <button
+            aria-expanded="true"
+            class="inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-4 hover:bg-gray-1 hover:text-gray-5"
+            data-headlessui-state="open"
+            id="headlessui-disclosure-button-mock-id"
+            type="button"
+          >
+            <svg
+              aria-hidden="true"
+              class="block h-6 w-6"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M6 18L18 6M6 6l12 12"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="p-4 bg-yellow-4 flex items-end justify-end"
+      data-headlessui-state="open"
+    >
+      <div
+        class="-mr-2 flex items-center"
+      >
+        <button
+          aria-expanded="true"
+          class="inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-4 hover:bg-gray-1 hover:text-gray-5"
+          data-headlessui-state="open"
+          id="headlessui-disclosure-button-mock-id"
+          type="button"
+        >
+          <svg
+            aria-hidden="true"
+            class="block h-6 w-6"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.5"
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M6 18L18 6M6 6l12 12"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

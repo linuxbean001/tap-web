@@ -1,0 +1,472 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tab-web-platform pages/Dashboard/Leaderboard Index 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <div
+        class="w-[360px]"
+      >
+        <div
+          class="col-span-2 md:col-span-1 flex flex-col p-2 md:p-6 bg-gray-0 rounded shadow-md md:shadow-sm"
+        >
+          <h3
+            class="text-h-sm font-medium text-dark-primary mb-8 inline-flex items-center"
+          >
+            Leaderboard
+            <div
+              class="tooltip ml-1.5"
+            >
+              <img
+                alt="question icon"
+                data-nimg="1"
+                decoding="async"
+                height="18"
+                loading="lazy"
+                src="/images/question-circle.svg"
+                style="color: transparent;"
+                width="18"
+              />
+            </div>
+          </h3>
+          <ul>
+            <li
+              class="flex justify-between mb-4"
+            >
+              <span
+                class="flex text-dark-secondary text-sm mr-1"
+              >
+                1 Firster Laster 1
+              </span>
+              <span
+                class="flex text-dark-secondary text-sm"
+              >
+                150
+                 pts
+              </span>
+            </li>
+            <li
+              class="flex justify-between mb-4"
+            >
+              <span
+                class="flex text-dark-secondary text-sm mr-1"
+              >
+                2 Firster Laster 2
+              </span>
+              <span
+                class="flex text-dark-secondary text-sm"
+              >
+                150
+                 pts
+              </span>
+            </li>
+            <li
+              class="flex justify-between mb-4"
+            >
+              <span
+                class="flex text-dark-secondary text-sm mr-1"
+              >
+                3 Firster Laster 3
+              </span>
+              <span
+                class="flex text-dark-secondary text-sm"
+              >
+                100
+                 pts
+              </span>
+            </li>
+            <li
+              class="flex justify-between mb-4"
+            >
+              <span
+                class="flex text-dark-secondary text-sm mr-1"
+              >
+                4 Firster Laster 4
+              </span>
+              <span
+                class="flex text-dark-secondary text-sm"
+              >
+                0
+                 pts
+              </span>
+            </li>
+            <li
+              class="flex justify-between mb-4"
+            >
+              <span
+                class="flex text-dark-secondary text-sm mr-1"
+              >
+                5 Firster Laster 5
+              </span>
+              <span
+                class="flex text-dark-secondary text-sm"
+              >
+                0
+                 pts
+              </span>
+            </li>
+            <li
+              class="flex justify-between mb-4"
+            >
+              <span
+                class="flex text-dark-secondary text-sm mr-1"
+              >
+                6 Firster Laster 6
+              </span>
+              <span
+                class="flex text-dark-secondary text-sm"
+              >
+                0
+                 pts
+              </span>
+            </li>
+            <li
+              class="flex justify-between mb-4"
+            >
+              <span
+                class="flex text-dark-secondary text-sm mr-1"
+              >
+                7 Firster Laster 7
+              </span>
+              <span
+                class="flex text-dark-secondary text-sm"
+              >
+                0
+                 pts
+              </span>
+            </li>
+            <li
+              class="flex justify-between mb-4"
+            >
+              <span
+                class="flex text-dark-secondary text-sm mr-1"
+              >
+                8 Firster Laster 8
+              </span>
+              <span
+                class="flex text-dark-secondary text-sm"
+              >
+                0
+                 pts
+              </span>
+            </li>
+            <li
+              class="flex justify-between mb-4"
+            >
+              <span
+                class="flex text-dark-secondary text-sm mr-1"
+              >
+                9 Firster Laster 9
+              </span>
+              <span
+                class="flex text-dark-secondary text-sm"
+              >
+                0
+                 pts
+              </span>
+            </li>
+            <li
+              class="flex justify-between mb-4"
+            >
+              <span
+                class="flex text-dark-secondary text-sm mr-1"
+              >
+                10 Firster Laster 10
+              </span>
+              <span
+                class="flex text-dark-secondary text-sm"
+              >
+                0
+                 pts
+              </span>
+            </li>
+            <hr
+              class="border-t border-gray-4 mt-6 mb-6"
+            />
+            <ol>
+              <li
+                class="flex justify-between"
+              >
+                <span
+                  class="flex text-dark-secondary text-sm"
+                >
+                  -
+                   
+                  John
+                   
+                  Doe
+                </span>
+                <span
+                  class="flex text-dark-secondary text-sm"
+                >
+                  150
+                   pts
+                </span>
+              </li>
+            </ol>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="w-[360px]"
+    >
+      <div
+        class="col-span-2 md:col-span-1 flex flex-col p-2 md:p-6 bg-gray-0 rounded shadow-md md:shadow-sm"
+      >
+        <h3
+          class="text-h-sm font-medium text-dark-primary mb-8 inline-flex items-center"
+        >
+          Leaderboard
+          <div
+            class="tooltip ml-1.5"
+          >
+            <img
+              alt="question icon"
+              data-nimg="1"
+              decoding="async"
+              height="18"
+              loading="lazy"
+              src="/images/question-circle.svg"
+              style="color: transparent;"
+              width="18"
+            />
+          </div>
+        </h3>
+        <ul>
+          <li
+            class="flex justify-between mb-4"
+          >
+            <span
+              class="flex text-dark-secondary text-sm mr-1"
+            >
+              1 Firster Laster 1
+            </span>
+            <span
+              class="flex text-dark-secondary text-sm"
+            >
+              150
+               pts
+            </span>
+          </li>
+          <li
+            class="flex justify-between mb-4"
+          >
+            <span
+              class="flex text-dark-secondary text-sm mr-1"
+            >
+              2 Firster Laster 2
+            </span>
+            <span
+              class="flex text-dark-secondary text-sm"
+            >
+              150
+               pts
+            </span>
+          </li>
+          <li
+            class="flex justify-between mb-4"
+          >
+            <span
+              class="flex text-dark-secondary text-sm mr-1"
+            >
+              3 Firster Laster 3
+            </span>
+            <span
+              class="flex text-dark-secondary text-sm"
+            >
+              100
+               pts
+            </span>
+          </li>
+          <li
+            class="flex justify-between mb-4"
+          >
+            <span
+              class="flex text-dark-secondary text-sm mr-1"
+            >
+              4 Firster Laster 4
+            </span>
+            <span
+              class="flex text-dark-secondary text-sm"
+            >
+              0
+               pts
+            </span>
+          </li>
+          <li
+            class="flex justify-between mb-4"
+          >
+            <span
+              class="flex text-dark-secondary text-sm mr-1"
+            >
+              5 Firster Laster 5
+            </span>
+            <span
+              class="flex text-dark-secondary text-sm"
+            >
+              0
+               pts
+            </span>
+          </li>
+          <li
+            class="flex justify-between mb-4"
+          >
+            <span
+              class="flex text-dark-secondary text-sm mr-1"
+            >
+              6 Firster Laster 6
+            </span>
+            <span
+              class="flex text-dark-secondary text-sm"
+            >
+              0
+               pts
+            </span>
+          </li>
+          <li
+            class="flex justify-between mb-4"
+          >
+            <span
+              class="flex text-dark-secondary text-sm mr-1"
+            >
+              7 Firster Laster 7
+            </span>
+            <span
+              class="flex text-dark-secondary text-sm"
+            >
+              0
+               pts
+            </span>
+          </li>
+          <li
+            class="flex justify-between mb-4"
+          >
+            <span
+              class="flex text-dark-secondary text-sm mr-1"
+            >
+              8 Firster Laster 8
+            </span>
+            <span
+              class="flex text-dark-secondary text-sm"
+            >
+              0
+               pts
+            </span>
+          </li>
+          <li
+            class="flex justify-between mb-4"
+          >
+            <span
+              class="flex text-dark-secondary text-sm mr-1"
+            >
+              9 Firster Laster 9
+            </span>
+            <span
+              class="flex text-dark-secondary text-sm"
+            >
+              0
+               pts
+            </span>
+          </li>
+          <li
+            class="flex justify-between mb-4"
+          >
+            <span
+              class="flex text-dark-secondary text-sm mr-1"
+            >
+              10 Firster Laster 10
+            </span>
+            <span
+              class="flex text-dark-secondary text-sm"
+            >
+              0
+               pts
+            </span>
+          </li>
+          <hr
+            class="border-t border-gray-4 mt-6 mb-6"
+          />
+          <ol>
+            <li
+              class="flex justify-between"
+            >
+              <span
+                class="flex text-dark-secondary text-sm"
+              >
+                -
+                 
+                John
+                 
+                Doe
+              </span>
+              <span
+                class="flex text-dark-secondary text-sm"
+              >
+                150
+                 pts
+              </span>
+            </li>
+          </ol>
+        </ul>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

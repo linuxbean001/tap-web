@@ -1,0 +1,73 @@
+import React from 'react'
+import { SubTopicStatus } from '../..'
+
+type SubTopicStatusIconProps = {
+  children?: any
+  className?: any
+  status: SubTopicStatus
+} & React.HTMLAttributes<SVGSVGElement>
+
+function SubTopicStatusIcon(
+  { children, className, status, ...props }: SubTopicStatusIconProps,
+  ref: React.ForwardedRef<SVGSVGElement>
+) {
+  const SVGIcon =
+    status === 'completed' ? SubTopicCompletedIcon : SubTopicPendingIcon
+  return <SVGIcon {...props} className={className} ref={ref}></SVGIcon>
+}
+
+const ForwardedRefSubTopicStatusIcon = React.forwardRef(SubTopicStatusIcon)
+
+export default ForwardedRefSubTopicStatusIcon
+
+export { ForwardedRefSubTopicStatusIcon as SubTopicStatusIcon }
+
+var SubTopicCompletedIcon = React.forwardRef(function SubTopicCompletedIcon(
+  props: Omit<SubTopicStatusIconProps, 'status'>,
+  ref: React.ForwardedRef<SVGSVGElement>
+) {
+  return (
+    <svg
+      {...props}
+      ref={ref}
+      className="inline-block"
+      width="24"
+      height="24"
+      viewBox="0 0 24 24"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <rect width="24" height="24" rx="12" fill="#B4DED4" />
+      <path
+        d="M16.4735 8.80657C16.4115 8.74409 16.3378 8.69449 16.2565 8.66065C16.1753 8.6268 16.0881 8.60938 16.0001 8.60938C15.9121 8.60938 15.825 8.6268 15.7437 8.66065C15.6625 8.69449 15.5888 8.74409 15.5268 8.80657L10.5601 13.7799L8.47346 11.6866C8.40911 11.6244 8.33315 11.5755 8.24992 11.5427C8.16668 11.5099 8.0778 11.4938 7.98834 11.4954C7.89889 11.4969 7.81062 11.5161 7.72857 11.5518C7.64651 11.5874 7.57229 11.6389 7.51013 11.7032C7.44797 11.7676 7.39909 11.8435 7.36629 11.9268C7.33349 12.01 7.3174 12.0989 7.31895 12.1884C7.3205 12.2778 7.33965 12.3661 7.37531 12.4481C7.41097 12.5302 7.46245 12.6044 7.5268 12.6666L10.0868 15.2266C10.1488 15.2891 10.2225 15.3387 10.3037 15.3725C10.385 15.4063 10.4721 15.4238 10.5601 15.4238C10.6481 15.4238 10.7353 15.4063 10.8165 15.3725C10.8978 15.3387 10.9715 15.2891 11.0335 15.2266L16.4735 9.78657C16.5411 9.72415 16.5951 9.64838 16.6321 9.56404C16.669 9.47971 16.6881 9.38864 16.6881 9.29657C16.6881 9.20451 16.669 9.11344 16.6321 9.0291C16.5951 8.94477 16.5411 8.869 16.4735 8.80657V8.80657Z"
+        fill="#111827"
+        fillOpacity="0.96"
+      />
+    </svg>
+  )
+})
+
+var SubTopicPendingIcon = React.forwardRef(function SubTopicPendingIcon(
+  props: Omit<SubTopicStatusIconProps, 'status'>,
+  ref: React.ForwardedRef<SVGSVGElement>
+) {
+  return (
+    <svg
+      {...props}
+      ref={ref}
+      className="inline-block"
+      width="24"
+      height="24"
+      viewBox="0 0 24 24"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <rect width="24" height="24" rx="12" fill="#E5E7EB" />
+      <path
+        d="M12.0002 5.3335C10.6816 5.3335 9.39269 5.72449 8.29636 6.45703C7.20004 7.18957 6.34555 8.23077 5.84097 9.44894C5.33638 10.6671 5.20436 12.0076 5.4616 13.3008C5.71883 14.594 6.35377 15.7819 7.28612 16.7142C8.21847 17.6466 9.40636 18.2815 10.6996 18.5387C11.9928 18.796 13.3332 18.6639 14.5514 18.1594C15.7696 17.6548 16.8108 16.8003 17.5433 15.704C18.2758 14.6076 18.6668 13.3187 18.6668 12.0002C18.6668 11.1247 18.4944 10.2578 18.1594 9.44894C17.8243 8.6401 17.3333 7.90517 16.7142 7.28612C16.0952 6.66706 15.3602 6.176 14.5514 5.84097C13.7426 5.50593 12.8756 5.3335 12.0002 5.3335ZM12.0002 17.3335C10.9453 17.3335 9.91419 17.0207 9.03712 16.4347C8.16006 15.8486 7.47648 15.0157 7.07281 14.0411C6.66914 13.0666 6.56352 11.9942 6.76931 10.9597C6.9751 9.92512 7.48305 8.97481 8.22893 8.22893C8.97481 7.48305 9.92512 6.9751 10.9597 6.76931C11.9942 6.56352 13.0666 6.66914 14.0411 7.07281C15.0157 7.47647 15.8486 8.16006 16.4347 9.03712C17.0207 9.91418 17.3335 10.9453 17.3335 12.0002C17.3335 13.4147 16.7716 14.7712 15.7714 15.7714C14.7712 16.7716 13.4147 17.3335 12.0002 17.3335Z"
+        fill="#111827"
+        fillOpacity="0.42"
+      />
+    </svg>
+  )
+})

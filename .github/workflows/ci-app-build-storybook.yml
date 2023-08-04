@@ -1,0 +1,28 @@
+name: Build Storybook
+
+on:
+  push:
+    branches: ['*']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      app-dir: ./
+
+    strategy:
+      matrix:
+        node-version: [18.x]
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+      - uses: borales/actions-yarn@v3.0.0
+        with:
+          cmd: install
+      - name: Build Storybook
+        run: sudo yarn build-storybook -c .storybook
+        working-directory: ${{ env.app-dir }}

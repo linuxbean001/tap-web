@@ -1,0 +1,21 @@
+.image-zoom-out {
+  animation-name: image-height-animation;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+}
+
+@media (prefers-reduced-motion) {
+  .image-zoom-out {
+    animation-name: none;
+    height: 100%;
+  }
+}
+
+@keyframes image-height-animation {
+  from {
+    height: 640px;
+  }
+  to {
+    height: 256px;
+  }
+}

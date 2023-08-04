@@ -1,0 +1,52 @@
+name: Test App
+
+on:
+  push:
+    branches: ['*']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      app-dir: ./
+
+    strategy:
+      matrix:
+        node-version: [18.x]
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+      - uses: borales/actions-yarn@v3.0.0
+        with:
+          cmd: install
+      - name: Run unit tests
+        run: yarn test
+        working-directory: ${{ env.app-dir }}
+        env:
+          CI: true
+      # - name: Run integration tests
+      #   run: yarn integration
+      #   working-directory: ${{ env.app-dir }}
+      #   env:
+      #     CI: true
+      #     ENV: local
+      - name: Create .ENV
+        run: printf "\nPG_VERSION=latest\nPG_PORT=5432\nPG_USERNAME=githubci\nPG_PASSWORD=test-password\nPG_DATABASE=tap3d\n" >> .env
+        working-directory: ${{ env.app-dir }}
+
+      # - name: Start DB
+      #   run: yarn db:start
+      # - name: Migrate DB
+      #   run: yarn db:migrate
+      # - name: Seed DB
+      #   run: yarn db:seed
+      #   env:
+      #     NEXT_PUBLIC_AUTH_URL: https://fake.auth.tap3d.com
+      #     NEXT_PUBLIC_CDN_URL: https://fake.cdn.tap3d.com
+      #     NEXT_PUBLIC_UNITY_PRODUCT_VERSION: 0.0.1
+      # - name: Stop DB
+      #   run: yarn db:stop

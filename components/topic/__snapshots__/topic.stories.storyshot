@@ -1,0 +1,706 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tab-web-platform shared/Topic With Completed Status 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <div
+        class="w-full font-body text-sm bg-gray-2"
+      >
+        <button
+          class="flex w-full text-left"
+        >
+          <div
+            class="flex w-full p-4"
+          >
+            <div
+              class="p-2 flex w-1/12 items-start justify-items-center"
+            >
+              <svg
+                fill="none"
+                height="24"
+                viewBox="0 0 27 27"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <rect
+                  fill="#F0F8F6"
+                  height="24"
+                  rx="12"
+                  width="24"
+                />
+                <path
+                  d="M14.0001 13.3334H10.0001C9.82327 13.3334 9.6537 13.4036 9.52868 13.5286C9.40365 13.6537 9.33341 13.8232 9.33341 14C9.33341 14.1769 9.40365 14.3464 9.52868 14.4714C9.6537 14.5965 9.82327 14.6667 10.0001 14.6667H14.0001C14.1769 14.6667 14.3465 14.5965 14.4715 14.4714C14.5965 14.3464 14.6667 14.1769 14.6667 14C14.6667 13.8232 14.5965 13.6537 14.4715 13.5286C14.3465 13.4036 14.1769 13.3334 14.0001 13.3334ZM14.0001 10.6667H11.3334C11.1566 10.6667 10.987 10.7369 10.862 10.862C10.737 10.987 10.6667 11.1566 10.6667 11.3334C10.6667 11.5102 10.737 11.6798 10.862 11.8048C10.987 11.9298 11.1566 12 11.3334 12H14.0001C14.1769 12 14.3465 11.9298 14.4715 11.8048C14.5965 11.6798 14.6667 11.5102 14.6667 11.3334C14.6667 11.1566 14.5965 10.987 14.4715 10.862C14.3465 10.7369 14.1769 10.6667 14.0001 10.6667ZM15.3334 6.66671H14.5467C14.4092 6.27767 14.1547 5.94071 13.8181 5.702C13.4815 5.46329 13.0794 5.33453 12.6667 5.33337H11.3334C10.9208 5.33453 10.5186 5.46329 10.182 5.702C9.84546 5.94071 9.59096 6.27767 9.45341 6.66671H8.66675C8.13631 6.66671 7.62761 6.87742 7.25253 7.25249C6.87746 7.62757 6.66675 8.13627 6.66675 8.66671V16.6667C6.66675 17.1971 6.87746 17.7058 7.25253 18.0809C7.62761 18.456 8.13631 18.6667 8.66675 18.6667H15.3334C15.8638 18.6667 16.3726 18.456 16.7476 18.0809C17.1227 17.7058 17.3334 17.1971 17.3334 16.6667V8.66671C17.3334 8.13627 17.1227 7.62757 16.7476 7.25249C16.3726 6.87742 15.8638 6.66671 15.3334 6.66671ZM10.6667 7.33337C10.6667 7.15656 10.737 6.98699 10.862 6.86197C10.987 6.73695 11.1566 6.66671 11.3334 6.66671H12.6667C12.8436 6.66671 13.0131 6.73695 13.1382 6.86197C13.2632 6.98699 13.3334 7.15656 13.3334 7.33337V8.00004H10.6667V7.33337ZM16.0001 16.6667C16.0001 16.8435 15.9298 17.0131 15.8048 17.1381C15.6798 17.2631 15.5102 17.3334 15.3334 17.3334H8.66675C8.48994 17.3334 8.32037 17.2631 8.19534 17.1381C8.07032 17.0131 8.00008 16.8435 8.00008 16.6667V8.66671C8.00008 8.4899 8.07032 8.32033 8.19534 8.1953C8.32037 8.07028 8.48994 8.00004 8.66675 8.00004H9.33341V8.66671C9.33341 8.84352 9.40365 9.01309 9.52868 9.13811C9.6537 9.26314 9.82327 9.33337 10.0001 9.33337H14.0001C14.1769 9.33337 14.3465 9.26314 14.4715 9.13811C14.5965 9.01309 14.6667 8.84352 14.6667 8.66671V8.00004H15.3334C15.5102 8.00004 15.6798 8.07028 15.8048 8.1953C15.9298 8.32033 16.0001 8.4899 16.0001 8.66671V16.6667Z"
+                  fill="#048667"
+                />
+                <rect
+                  fill="#048667"
+                  height="14"
+                  rx="7"
+                  width="14"
+                  x="13"
+                  y="13"
+                />
+                <path
+                  d="M22.7959 18.0041C22.7571 17.9651 22.711 17.9341 22.6603 17.9129C22.6095 17.8918 22.555 17.8809 22.5 17.8809C22.445 17.8809 22.3906 17.8918 22.3398 17.9129C22.289 17.9341 22.2429 17.9651 22.2042 18.0041L19.1 21.1124L17.7959 19.8041C17.7556 19.7653 17.7082 19.7347 17.6561 19.7142C17.6041 19.6937 17.5486 19.6837 17.4927 19.6846C17.4367 19.6856 17.3816 19.6976 17.3303 19.7198C17.279 19.7421 17.2326 19.7743 17.1938 19.8145C17.1549 19.8547 17.1244 19.9022 17.1039 19.9542C17.0834 20.0063 17.0733 20.0618 17.0743 20.1177C17.0752 20.1736 17.0872 20.2288 17.1095 20.2801C17.1318 20.3314 17.164 20.3778 17.2042 20.4166L18.8042 22.0166C18.8429 22.0557 18.889 22.0867 18.9398 22.1078C18.9906 22.129 19.045 22.1399 19.1 22.1399C19.155 22.1399 19.2095 22.129 19.2603 22.1078C19.311 22.0867 19.3571 22.0557 19.3959 22.0166L22.7959 18.6166C22.8381 18.5776 22.8719 18.5302 22.895 18.4775C22.9181 18.4248 22.93 18.3679 22.93 18.3104C22.93 18.2528 22.9181 18.1959 22.895 18.1432C22.8719 18.0905 22.8381 18.0431 22.7959 18.0041Z"
+                  fill="white"
+                  fill-opacity="0.96"
+                />
+              </svg>
+            </div>
+            <div
+              class="flex flex-col w-3/4"
+            >
+              <h4
+                class="font-bold"
+              >
+                Topic
+              </h4>
+              <p
+                class="text-dark-secondary"
+              >
+                Description about this topic
+              </p>
+            </div>
+            <div
+              class="flex w-1/6"
+            >
+              <div
+                class="flex flex-row w-full text-xs items-center justify-end text-center"
+              >
+                <span>
+                  3
+                  /
+                  3
+                   complete
+                </span>
+                <span
+                  class="sm:px-2"
+                />
+                <svg
+                  aria-hidden="true"
+                  class="h-5 w-5 text-gray-4"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M19.5 8.25l-7.5 7.5-7.5-7.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </button>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="w-full font-body text-sm bg-gray-2"
+    >
+      <button
+        class="flex w-full text-left"
+      >
+        <div
+          class="flex w-full p-4"
+        >
+          <div
+            class="p-2 flex w-1/12 items-start justify-items-center"
+          >
+            <svg
+              fill="none"
+              height="24"
+              viewBox="0 0 27 27"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <rect
+                fill="#F0F8F6"
+                height="24"
+                rx="12"
+                width="24"
+              />
+              <path
+                d="M14.0001 13.3334H10.0001C9.82327 13.3334 9.6537 13.4036 9.52868 13.5286C9.40365 13.6537 9.33341 13.8232 9.33341 14C9.33341 14.1769 9.40365 14.3464 9.52868 14.4714C9.6537 14.5965 9.82327 14.6667 10.0001 14.6667H14.0001C14.1769 14.6667 14.3465 14.5965 14.4715 14.4714C14.5965 14.3464 14.6667 14.1769 14.6667 14C14.6667 13.8232 14.5965 13.6537 14.4715 13.5286C14.3465 13.4036 14.1769 13.3334 14.0001 13.3334ZM14.0001 10.6667H11.3334C11.1566 10.6667 10.987 10.7369 10.862 10.862C10.737 10.987 10.6667 11.1566 10.6667 11.3334C10.6667 11.5102 10.737 11.6798 10.862 11.8048C10.987 11.9298 11.1566 12 11.3334 12H14.0001C14.1769 12 14.3465 11.9298 14.4715 11.8048C14.5965 11.6798 14.6667 11.5102 14.6667 11.3334C14.6667 11.1566 14.5965 10.987 14.4715 10.862C14.3465 10.7369 14.1769 10.6667 14.0001 10.6667ZM15.3334 6.66671H14.5467C14.4092 6.27767 14.1547 5.94071 13.8181 5.702C13.4815 5.46329 13.0794 5.33453 12.6667 5.33337H11.3334C10.9208 5.33453 10.5186 5.46329 10.182 5.702C9.84546 5.94071 9.59096 6.27767 9.45341 6.66671H8.66675C8.13631 6.66671 7.62761 6.87742 7.25253 7.25249C6.87746 7.62757 6.66675 8.13627 6.66675 8.66671V16.6667C6.66675 17.1971 6.87746 17.7058 7.25253 18.0809C7.62761 18.456 8.13631 18.6667 8.66675 18.6667H15.3334C15.8638 18.6667 16.3726 18.456 16.7476 18.0809C17.1227 17.7058 17.3334 17.1971 17.3334 16.6667V8.66671C17.3334 8.13627 17.1227 7.62757 16.7476 7.25249C16.3726 6.87742 15.8638 6.66671 15.3334 6.66671ZM10.6667 7.33337C10.6667 7.15656 10.737 6.98699 10.862 6.86197C10.987 6.73695 11.1566 6.66671 11.3334 6.66671H12.6667C12.8436 6.66671 13.0131 6.73695 13.1382 6.86197C13.2632 6.98699 13.3334 7.15656 13.3334 7.33337V8.00004H10.6667V7.33337ZM16.0001 16.6667C16.0001 16.8435 15.9298 17.0131 15.8048 17.1381C15.6798 17.2631 15.5102 17.3334 15.3334 17.3334H8.66675C8.48994 17.3334 8.32037 17.2631 8.19534 17.1381C8.07032 17.0131 8.00008 16.8435 8.00008 16.6667V8.66671C8.00008 8.4899 8.07032 8.32033 8.19534 8.1953C8.32037 8.07028 8.48994 8.00004 8.66675 8.00004H9.33341V8.66671C9.33341 8.84352 9.40365 9.01309 9.52868 9.13811C9.6537 9.26314 9.82327 9.33337 10.0001 9.33337H14.0001C14.1769 9.33337 14.3465 9.26314 14.4715 9.13811C14.5965 9.01309 14.6667 8.84352 14.6667 8.66671V8.00004H15.3334C15.5102 8.00004 15.6798 8.07028 15.8048 8.1953C15.9298 8.32033 16.0001 8.4899 16.0001 8.66671V16.6667Z"
+                fill="#048667"
+              />
+              <rect
+                fill="#048667"
+                height="14"
+                rx="7"
+                width="14"
+                x="13"
+                y="13"
+              />
+              <path
+                d="M22.7959 18.0041C22.7571 17.9651 22.711 17.9341 22.6603 17.9129C22.6095 17.8918 22.555 17.8809 22.5 17.8809C22.445 17.8809 22.3906 17.8918 22.3398 17.9129C22.289 17.9341 22.2429 17.9651 22.2042 18.0041L19.1 21.1124L17.7959 19.8041C17.7556 19.7653 17.7082 19.7347 17.6561 19.7142C17.6041 19.6937 17.5486 19.6837 17.4927 19.6846C17.4367 19.6856 17.3816 19.6976 17.3303 19.7198C17.279 19.7421 17.2326 19.7743 17.1938 19.8145C17.1549 19.8547 17.1244 19.9022 17.1039 19.9542C17.0834 20.0063 17.0733 20.0618 17.0743 20.1177C17.0752 20.1736 17.0872 20.2288 17.1095 20.2801C17.1318 20.3314 17.164 20.3778 17.2042 20.4166L18.8042 22.0166C18.8429 22.0557 18.889 22.0867 18.9398 22.1078C18.9906 22.129 19.045 22.1399 19.1 22.1399C19.155 22.1399 19.2095 22.129 19.2603 22.1078C19.311 22.0867 19.3571 22.0557 19.3959 22.0166L22.7959 18.6166C22.8381 18.5776 22.8719 18.5302 22.895 18.4775C22.9181 18.4248 22.93 18.3679 22.93 18.3104C22.93 18.2528 22.9181 18.1959 22.895 18.1432C22.8719 18.0905 22.8381 18.0431 22.7959 18.0041Z"
+                fill="white"
+                fill-opacity="0.96"
+              />
+            </svg>
+          </div>
+          <div
+            class="flex flex-col w-3/4"
+          >
+            <h4
+              class="font-bold"
+            >
+              Topic
+            </h4>
+            <p
+              class="text-dark-secondary"
+            >
+              Description about this topic
+            </p>
+          </div>
+          <div
+            class="flex w-1/6"
+          >
+            <div
+              class="flex flex-row w-full text-xs items-center justify-end text-center"
+            >
+              <span>
+                3
+                /
+                3
+                 complete
+              </span>
+              <span
+                class="sm:px-2"
+              />
+              <svg
+                aria-hidden="true"
+                class="h-5 w-5 text-gray-4"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.5"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M19.5 8.25l-7.5 7.5-7.5-7.5"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+      </button>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`tab-web-platform shared/Topic With Incompleted Status 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <div
+        class="w-full font-body text-sm bg-gray-2"
+      >
+        <button
+          class="flex w-full text-left"
+        >
+          <div
+            class="flex w-full p-4"
+          >
+            <div
+              class="p-2 flex w-1/12 items-start justify-items-center"
+            >
+              <svg
+                fill="none"
+                height="24"
+                viewBox="0 0 24 24"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <rect
+                  fill="#F3F4F6"
+                  height="24"
+                  rx="12"
+                  width="24"
+                />
+                <path
+                  d="M15.9998 5.3335H9.33317C8.62593 5.3335 7.94765 5.61445 7.44755 6.11454C6.94746 6.61464 6.6665 7.29292 6.6665 8.00016V16.0002C6.6665 16.7074 6.94746 17.3857 7.44755 17.8858C7.94765 18.3859 8.62593 18.6668 9.33317 18.6668H15.9998C16.3535 18.6668 16.6926 18.5264 16.9426 18.2763C17.1927 18.0263 17.3332 17.6871 17.3332 17.3335V6.66683C17.3332 6.31321 17.1927 5.97407 16.9426 5.72402C16.6926 5.47397 16.3535 5.3335 15.9998 5.3335ZM7.99984 8.00016C7.99984 7.64654 8.14031 7.3074 8.39036 7.05735C8.64041 6.80731 8.97955 6.66683 9.33317 6.66683H15.9998V13.3335H9.33317C8.8632 13.3355 8.4025 13.4645 7.99984 13.7068V8.00016ZM9.33317 17.3335C8.97955 17.3335 8.64041 17.193 8.39036 16.943C8.14031 16.6929 7.99984 16.3538 7.99984 16.0002C7.99984 15.6465 8.14031 15.3074 8.39036 15.0574C8.64041 14.8073 8.97955 14.6668 9.33317 14.6668H15.9998V17.3335H9.33317ZM10.6665 9.3335H13.3332C13.51 9.3335 13.6796 9.26326 13.8046 9.13823C13.9296 9.01321 13.9998 8.84364 13.9998 8.66683C13.9998 8.49002 13.9296 8.32045 13.8046 8.19543C13.6796 8.0704 13.51 8.00016 13.3332 8.00016H10.6665C10.4897 8.00016 10.3201 8.0704 10.1951 8.19543C10.0701 8.32045 9.99984 8.49002 9.99984 8.66683C9.99984 8.84364 10.0701 9.01321 10.1951 9.13823C10.3201 9.26326 10.4897 9.3335 10.6665 9.3335Z"
+                  fill="#111827"
+                  fill-opacity="0.64"
+                />
+              </svg>
+            </div>
+            <div
+              class="flex flex-col w-3/4"
+            >
+              <h4
+                class="font-bold"
+              >
+                Topic
+              </h4>
+              <p
+                class="text-dark-secondary"
+              >
+                Description about this topic
+              </p>
+            </div>
+            <div
+              class="flex w-1/6"
+            >
+              <div
+                class="flex flex-row w-full text-xs items-center justify-end text-center"
+              >
+                <span>
+                  1
+                  /
+                  3
+                   complete
+                </span>
+                <span
+                  class="sm:px-2"
+                />
+                <svg
+                  aria-hidden="true"
+                  class="h-5 w-5 text-gray-4"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M19.5 8.25l-7.5 7.5-7.5-7.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </button>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="w-full font-body text-sm bg-gray-2"
+    >
+      <button
+        class="flex w-full text-left"
+      >
+        <div
+          class="flex w-full p-4"
+        >
+          <div
+            class="p-2 flex w-1/12 items-start justify-items-center"
+          >
+            <svg
+              fill="none"
+              height="24"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <rect
+                fill="#F3F4F6"
+                height="24"
+                rx="12"
+                width="24"
+              />
+              <path
+                d="M15.9998 5.3335H9.33317C8.62593 5.3335 7.94765 5.61445 7.44755 6.11454C6.94746 6.61464 6.6665 7.29292 6.6665 8.00016V16.0002C6.6665 16.7074 6.94746 17.3857 7.44755 17.8858C7.94765 18.3859 8.62593 18.6668 9.33317 18.6668H15.9998C16.3535 18.6668 16.6926 18.5264 16.9426 18.2763C17.1927 18.0263 17.3332 17.6871 17.3332 17.3335V6.66683C17.3332 6.31321 17.1927 5.97407 16.9426 5.72402C16.6926 5.47397 16.3535 5.3335 15.9998 5.3335ZM7.99984 8.00016C7.99984 7.64654 8.14031 7.3074 8.39036 7.05735C8.64041 6.80731 8.97955 6.66683 9.33317 6.66683H15.9998V13.3335H9.33317C8.8632 13.3355 8.4025 13.4645 7.99984 13.7068V8.00016ZM9.33317 17.3335C8.97955 17.3335 8.64041 17.193 8.39036 16.943C8.14031 16.6929 7.99984 16.3538 7.99984 16.0002C7.99984 15.6465 8.14031 15.3074 8.39036 15.0574C8.64041 14.8073 8.97955 14.6668 9.33317 14.6668H15.9998V17.3335H9.33317ZM10.6665 9.3335H13.3332C13.51 9.3335 13.6796 9.26326 13.8046 9.13823C13.9296 9.01321 13.9998 8.84364 13.9998 8.66683C13.9998 8.49002 13.9296 8.32045 13.8046 8.19543C13.6796 8.0704 13.51 8.00016 13.3332 8.00016H10.6665C10.4897 8.00016 10.3201 8.0704 10.1951 8.19543C10.0701 8.32045 9.99984 8.49002 9.99984 8.66683C9.99984 8.84364 10.0701 9.01321 10.1951 9.13823C10.3201 9.26326 10.4897 9.3335 10.6665 9.3335Z"
+                fill="#111827"
+                fill-opacity="0.64"
+              />
+            </svg>
+          </div>
+          <div
+            class="flex flex-col w-3/4"
+          >
+            <h4
+              class="font-bold"
+            >
+              Topic
+            </h4>
+            <p
+              class="text-dark-secondary"
+            >
+              Description about this topic
+            </p>
+          </div>
+          <div
+            class="flex w-1/6"
+          >
+            <div
+              class="flex flex-row w-full text-xs items-center justify-end text-center"
+            >
+              <span>
+                1
+                /
+                3
+                 complete
+              </span>
+              <span
+                class="sm:px-2"
+              />
+              <svg
+                aria-hidden="true"
+                class="h-5 w-5 text-gray-4"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.5"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M19.5 8.25l-7.5 7.5-7.5-7.5"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+      </button>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`tab-web-platform shared/Topic With Locked Status 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <div
+        class="w-full font-body text-sm bg-gray-2"
+      >
+        <button
+          class="flex w-full text-left"
+        >
+          <div
+            class="flex w-full p-4"
+          >
+            <div
+              class="p-2 flex w-1/12 items-start justify-items-center"
+            >
+              <svg
+                fill="none"
+                height="24"
+                viewBox="0 0 24 24"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <rect
+                  fill="#F3F4F6"
+                  height="24"
+                  rx="12"
+                  width="24"
+                />
+                <path
+                  d="M15.3334 9.99992V8.66659C15.3334 7.78253 14.9822 6.93468 14.3571 6.30956C13.732 5.68444 12.8841 5.33325 12.0001 5.33325C11.116 5.33325 10.2682 5.68444 9.64306 6.30956C9.01794 6.93468 8.66675 7.78253 8.66675 8.66659V9.99992C8.13631 9.99992 7.62761 10.2106 7.25253 10.5857C6.87746 10.9608 6.66675 11.4695 6.66675 11.9999V16.6666C6.66675 17.197 6.87746 17.7057 7.25253 18.0808C7.62761 18.4559 8.13631 18.6666 8.66675 18.6666H15.3334C15.8638 18.6666 16.3726 18.4559 16.7476 18.0808C17.1227 17.7057 17.3334 17.197 17.3334 16.6666V11.9999C17.3334 11.4695 17.1227 10.9608 16.7476 10.5857C16.3726 10.2106 15.8638 9.99992 15.3334 9.99992ZM10.0001 8.66659C10.0001 8.13615 10.2108 7.62744 10.5859 7.25237C10.9609 6.8773 11.4696 6.66659 12.0001 6.66659C12.5305 6.66659 13.0392 6.8773 13.4143 7.25237C13.7894 7.62744 14.0001 8.13615 14.0001 8.66659V9.99992H10.0001V8.66659ZM16.0001 16.6666C16.0001 16.8434 15.9298 17.013 15.8048 17.138C15.6798 17.263 15.5102 17.3333 15.3334 17.3333H8.66675C8.48994 17.3333 8.32037 17.263 8.19534 17.138C8.07032 17.013 8.00008 16.8434 8.00008 16.6666V11.9999C8.00008 11.8231 8.07032 11.6535 8.19534 11.5285C8.32037 11.4035 8.48994 11.3333 8.66675 11.3333H15.3334C15.5102 11.3333 15.6798 11.4035 15.8048 11.5285C15.9298 11.6535 16.0001 11.8231 16.0001 11.9999V16.6666Z"
+                  fill="#111827"
+                  fill-opacity="0.64"
+                />
+              </svg>
+            </div>
+            <div
+              class="flex flex-col w-3/4"
+            >
+              <h4
+                class="font-bold"
+              >
+                Topic
+              </h4>
+              <p
+                class="text-dark-secondary"
+              >
+                Description about this topic
+              </p>
+            </div>
+            <div
+              class="flex w-1/6"
+            >
+              <div
+                class="flex flex-row w-full text-xs items-center justify-end text-center"
+              >
+                <span>
+                  0
+                  /
+                  3
+                   complete
+                </span>
+                <span
+                  class="sm:px-2"
+                />
+                <svg
+                  aria-hidden="true"
+                  class="h-5 w-5 text-gray-4"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M19.5 8.25l-7.5 7.5-7.5-7.5"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </button>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="w-full font-body text-sm bg-gray-2"
+    >
+      <button
+        class="flex w-full text-left"
+      >
+        <div
+          class="flex w-full p-4"
+        >
+          <div
+            class="p-2 flex w-1/12 items-start justify-items-center"
+          >
+            <svg
+              fill="none"
+              height="24"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <rect
+                fill="#F3F4F6"
+                height="24"
+                rx="12"
+                width="24"
+              />
+              <path
+                d="M15.3334 9.99992V8.66659C15.3334 7.78253 14.9822 6.93468 14.3571 6.30956C13.732 5.68444 12.8841 5.33325 12.0001 5.33325C11.116 5.33325 10.2682 5.68444 9.64306 6.30956C9.01794 6.93468 8.66675 7.78253 8.66675 8.66659V9.99992C8.13631 9.99992 7.62761 10.2106 7.25253 10.5857C6.87746 10.9608 6.66675 11.4695 6.66675 11.9999V16.6666C6.66675 17.197 6.87746 17.7057 7.25253 18.0808C7.62761 18.4559 8.13631 18.6666 8.66675 18.6666H15.3334C15.8638 18.6666 16.3726 18.4559 16.7476 18.0808C17.1227 17.7057 17.3334 17.197 17.3334 16.6666V11.9999C17.3334 11.4695 17.1227 10.9608 16.7476 10.5857C16.3726 10.2106 15.8638 9.99992 15.3334 9.99992ZM10.0001 8.66659C10.0001 8.13615 10.2108 7.62744 10.5859 7.25237C10.9609 6.8773 11.4696 6.66659 12.0001 6.66659C12.5305 6.66659 13.0392 6.8773 13.4143 7.25237C13.7894 7.62744 14.0001 8.13615 14.0001 8.66659V9.99992H10.0001V8.66659ZM16.0001 16.6666C16.0001 16.8434 15.9298 17.013 15.8048 17.138C15.6798 17.263 15.5102 17.3333 15.3334 17.3333H8.66675C8.48994 17.3333 8.32037 17.263 8.19534 17.138C8.07032 17.013 8.00008 16.8434 8.00008 16.6666V11.9999C8.00008 11.8231 8.07032 11.6535 8.19534 11.5285C8.32037 11.4035 8.48994 11.3333 8.66675 11.3333H15.3334C15.5102 11.3333 15.6798 11.4035 15.8048 11.5285C15.9298 11.6535 16.0001 11.8231 16.0001 11.9999V16.6666Z"
+                fill="#111827"
+                fill-opacity="0.64"
+              />
+            </svg>
+          </div>
+          <div
+            class="flex flex-col w-3/4"
+          >
+            <h4
+              class="font-bold"
+            >
+              Topic
+            </h4>
+            <p
+              class="text-dark-secondary"
+            >
+              Description about this topic
+            </p>
+          </div>
+          <div
+            class="flex w-1/6"
+          >
+            <div
+              class="flex flex-row w-full text-xs items-center justify-end text-center"
+            >
+              <span>
+                0
+                /
+                3
+                 complete
+              </span>
+              <span
+                class="sm:px-2"
+              />
+              <svg
+                aria-hidden="true"
+                class="h-5 w-5 text-gray-4"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.5"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M19.5 8.25l-7.5 7.5-7.5-7.5"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+      </button>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

@@ -1,0 +1,1122 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tab-web-platform shared/Select Disabled 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <div
+        class="relative inline-block w-full"
+      >
+        <button
+          class="z-10 absolute right-1 inline-block h-full w-8 pointer-events-none px-1"
+          style="height: 90%; top: 5%; background-color: rgb(237, 238, 241);"
+        />
+        <select
+          class="select-container w-full border rounded-md p-2 pl-4 pr-6 shadow focus:outline-gray-4 border-dark-tertiary bg-gray-3 cursor-not-allowed form-select"
+          disabled=""
+        >
+          <option
+            value="hello"
+          >
+            Hello
+          </option>
+          <option
+            value="world"
+          >
+            World
+          </option>
+        </select>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="relative inline-block w-full"
+    >
+      <button
+        class="z-10 absolute right-1 inline-block h-full w-8 pointer-events-none px-1"
+        style="height: 90%; top: 5%; background-color: rgb(237, 238, 241);"
+      />
+      <select
+        class="select-container w-full border rounded-md p-2 pl-4 pr-6 shadow focus:outline-gray-4 border-dark-tertiary bg-gray-3 cursor-not-allowed form-select"
+        disabled=""
+      >
+        <option
+          value="hello"
+        >
+          Hello
+        </option>
+        <option
+          value="world"
+        >
+          World
+        </option>
+      </select>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`tab-web-platform shared/Select Index 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <div
+        class="relative inline-block"
+      >
+        <button
+          class="z-10 absolute right-1 inline-block h-full w-8 pointer-events-none px-1 bg-white"
+          style="height: 90%; top: 5%;"
+        >
+          <svg
+            class="w-4 h-4"
+            fill="#1118276b"
+            viewBox="0 0 20 20"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </button>
+        <select
+          class="select-container w-full border rounded-md p-2 pl-4 pr-6 shadow focus:outline-gray-4 bg-white border-gray-3 hover:border-gray-4 focus:border-primary-5 form-select"
+        >
+          <option
+            value="a"
+          >
+            A
+          </option>
+        </select>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="relative inline-block"
+    >
+      <button
+        class="z-10 absolute right-1 inline-block h-full w-8 pointer-events-none px-1 bg-white"
+        style="height: 90%; top: 5%;"
+      >
+        <svg
+          class="w-4 h-4"
+          fill="#1118276b"
+          viewBox="0 0 20 20"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+            fill-rule="evenodd"
+          />
+        </svg>
+      </button>
+      <select
+        class="select-container w-full border rounded-md p-2 pl-4 pr-6 shadow focus:outline-gray-4 bg-white border-gray-3 hover:border-gray-4 focus:border-primary-5 form-select"
+      >
+        <option
+          value="a"
+        >
+          A
+        </option>
+      </select>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`tab-web-platform shared/Select Invalid 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <div
+        class="relative inline-block w-full"
+      >
+        <button
+          class="z-10 absolute right-1 inline-block h-full w-8 pointer-events-none px-1 bg-white"
+          style="height: 90%; top: 5%;"
+        >
+          <svg
+            class="w-4 h-4"
+            fill="#1118276b"
+            viewBox="0 0 20 20"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </button>
+        <select
+          class="select-container w-full border rounded-md p-2 pl-4 pr-6 shadow focus:outline-gray-4 bg-white border-red-5 focus:border-red-5 hover:border-red-5 form-select"
+        >
+          <option
+            value="hello"
+          >
+            Hello
+          </option>
+          <option
+            value="world"
+          >
+            World
+          </option>
+        </select>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="relative inline-block w-full"
+    >
+      <button
+        class="z-10 absolute right-1 inline-block h-full w-8 pointer-events-none px-1 bg-white"
+        style="height: 90%; top: 5%;"
+      >
+        <svg
+          class="w-4 h-4"
+          fill="#1118276b"
+          viewBox="0 0 20 20"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+            fill-rule="evenodd"
+          />
+        </svg>
+      </button>
+      <select
+        class="select-container w-full border rounded-md p-2 pl-4 pr-6 shadow focus:outline-gray-4 bg-white border-red-5 focus:border-red-5 hover:border-red-5 form-select"
+      >
+        <option
+          value="hello"
+        >
+          Hello
+        </option>
+        <option
+          value="world"
+        >
+          World
+        </option>
+      </select>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`tab-web-platform shared/Select Read Only 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <div
+        class="relative inline-block w-full"
+      >
+        <input
+          aria-readonly="true"
+          class="border rounded-md p-2 w-full shadow-sm focus:outline-none caret-transparent border-gray-3"
+          type="text"
+          value="Hello"
+        />
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="relative inline-block w-full"
+    >
+      <input
+        aria-readonly="true"
+        class="border rounded-md p-2 w-full shadow-sm focus:outline-none caret-transparent border-gray-3"
+        type="text"
+        value="Hello"
+      />
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`tab-web-platform shared/Select Valid 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <div
+        class="relative inline-block w-full"
+      >
+        <button
+          class="z-10 absolute right-1 inline-block h-full w-8 pointer-events-none px-1 bg-white"
+          style="height: 90%; top: 5%;"
+        >
+          <svg
+            class="w-4 h-4"
+            fill="#1118276b"
+            viewBox="0 0 20 20"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </button>
+        <select
+          class="select-container w-full border rounded-md p-2 pl-4 pr-6 shadow focus:outline-gray-4 bg-white border-gray-3 hover:border-gray-4 focus:border-primary-5 form-select"
+        >
+          <option
+            value="hello"
+          >
+            Hello
+          </option>
+          <option
+            value="world"
+          >
+            World
+          </option>
+        </select>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="relative inline-block w-full"
+    >
+      <button
+        class="z-10 absolute right-1 inline-block h-full w-8 pointer-events-none px-1 bg-white"
+        style="height: 90%; top: 5%;"
+      >
+        <svg
+          class="w-4 h-4"
+          fill="#1118276b"
+          viewBox="0 0 20 20"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+            fill-rule="evenodd"
+          />
+        </svg>
+      </button>
+      <select
+        class="select-container w-full border rounded-md p-2 pl-4 pr-6 shadow focus:outline-gray-4 bg-white border-gray-3 hover:border-gray-4 focus:border-primary-5 form-select"
+      >
+        <option
+          value="hello"
+        >
+          Hello
+        </option>
+        <option
+          value="world"
+        >
+          World
+        </option>
+      </select>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`tab-web-platform shared/Select With Children 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <div
+        class="relative inline-block"
+      >
+        <button
+          class="z-10 absolute right-1 inline-block h-full w-8 pointer-events-none px-1 bg-white"
+          style="height: 90%; top: 5%;"
+        >
+          <svg
+            class="w-4 h-4"
+            fill="#1118276b"
+            viewBox="0 0 20 20"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </button>
+        <select
+          class="select-container w-full border rounded-md p-2 pl-4 pr-6 shadow focus:outline-gray-4 bg-white border-gray-3 hover:border-gray-4 focus:border-primary-5 form-select"
+        >
+          <option
+            value="hello"
+          >
+            Hello
+          </option>
+          <option
+            value="world"
+          >
+            World
+          </option>
+        </select>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="relative inline-block"
+    >
+      <button
+        class="z-10 absolute right-1 inline-block h-full w-8 pointer-events-none px-1 bg-white"
+        style="height: 90%; top: 5%;"
+      >
+        <svg
+          class="w-4 h-4"
+          fill="#1118276b"
+          viewBox="0 0 20 20"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+            fill-rule="evenodd"
+          />
+        </svg>
+      </button>
+      <select
+        class="select-container w-full border rounded-md p-2 pl-4 pr-6 shadow focus:outline-gray-4 bg-white border-gray-3 hover:border-gray-4 focus:border-primary-5 form-select"
+      >
+        <option
+          value="hello"
+        >
+          Hello
+        </option>
+        <option
+          value="world"
+        >
+          World
+        </option>
+      </select>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`tab-web-platform shared/Select With Full Width 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <div
+        class="relative inline-block w-full"
+      >
+        <button
+          class="z-10 absolute right-1 inline-block h-full w-8 pointer-events-none px-1 bg-white"
+          style="height: 90%; top: 5%;"
+        >
+          <svg
+            class="w-4 h-4"
+            fill="#1118276b"
+            viewBox="0 0 20 20"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </button>
+        <select
+          class="select-container w-full border rounded-md p-2 pl-4 pr-6 shadow focus:outline-gray-4 bg-white border-gray-3 hover:border-gray-4 focus:border-primary-5 form-select"
+        >
+          <option
+            value="hello"
+          >
+            Hello
+          </option>
+          <option
+            value="world"
+          >
+            World
+          </option>
+        </select>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="relative inline-block w-full"
+    >
+      <button
+        class="z-10 absolute right-1 inline-block h-full w-8 pointer-events-none px-1 bg-white"
+        style="height: 90%; top: 5%;"
+      >
+        <svg
+          class="w-4 h-4"
+          fill="#1118276b"
+          viewBox="0 0 20 20"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+            fill-rule="evenodd"
+          />
+        </svg>
+      </button>
+      <select
+        class="select-container w-full border rounded-md p-2 pl-4 pr-6 shadow focus:outline-gray-4 bg-white border-gray-3 hover:border-gray-4 focus:border-primary-5 form-select"
+      >
+        <option
+          value="hello"
+        >
+          Hello
+        </option>
+        <option
+          value="world"
+        >
+          World
+        </option>
+      </select>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`tab-web-platform shared/Select With Required 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <div
+        class="relative inline-block"
+      >
+        <button
+          class="z-10 absolute right-1 inline-block h-full w-8 pointer-events-none px-1 bg-white"
+          style="height: 90%; top: 5%;"
+        >
+          <svg
+            class="w-4 h-4"
+            fill="#1118276b"
+            viewBox="0 0 20 20"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </button>
+        <select
+          class="select-container w-full border rounded-md p-2 pl-4 pr-6 shadow focus:outline-gray-4 bg-white border-gray-3 hover:border-gray-4 focus:border-primary-5 form-select"
+          required=""
+        >
+          <option
+            value="hello"
+          >
+            Hello
+          </option>
+          <option
+            value="world"
+          >
+            World
+          </option>
+        </select>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="relative inline-block"
+    >
+      <button
+        class="z-10 absolute right-1 inline-block h-full w-8 pointer-events-none px-1 bg-white"
+        style="height: 90%; top: 5%;"
+      >
+        <svg
+          class="w-4 h-4"
+          fill="#1118276b"
+          viewBox="0 0 20 20"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+            fill-rule="evenodd"
+          />
+        </svg>
+      </button>
+      <select
+        class="select-container w-full border rounded-md p-2 pl-4 pr-6 shadow focus:outline-gray-4 bg-white border-gray-3 hover:border-gray-4 focus:border-primary-5 form-select"
+        required=""
+      >
+        <option
+          value="hello"
+        >
+          Hello
+        </option>
+        <option
+          value="world"
+        >
+          World
+        </option>
+      </select>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`tab-web-platform shared/Select With Title 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body
+    class="sb-show-nopreview"
+  >
+    <div>
+      <div
+        class="relative inline-block"
+      >
+        <button
+          class="z-10 absolute right-1 inline-block h-full w-8 pointer-events-none px-1 bg-white"
+          style="height: 90%; top: 5%;"
+        >
+          <svg
+            class="w-4 h-4"
+            fill="#1118276b"
+            viewBox="0 0 20 20"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </button>
+        <select
+          class="select-container w-full border rounded-md p-2 pl-4 pr-6 shadow focus:outline-gray-4 bg-white border-gray-3 hover:border-gray-4 focus:border-primary-5 form-select"
+          title="Title"
+        >
+          <option
+            value="hello"
+          >
+            Hello
+          </option>
+          <option
+            value="world"
+          >
+            World
+          </option>
+        </select>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="relative inline-block"
+    >
+      <button
+        class="z-10 absolute right-1 inline-block h-full w-8 pointer-events-none px-1 bg-white"
+        style="height: 90%; top: 5%;"
+      >
+        <svg
+          class="w-4 h-4"
+          fill="#1118276b"
+          viewBox="0 0 20 20"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+            fill-rule="evenodd"
+          />
+        </svg>
+      </button>
+      <select
+        class="select-container w-full border rounded-md p-2 pl-4 pr-6 shadow focus:outline-gray-4 bg-white border-gray-3 hover:border-gray-4 focus:border-primary-5 form-select"
+        title="Title"
+      >
+        <option
+          value="hello"
+        >
+          Hello
+        </option>
+        <option
+          value="world"
+        >
+          World
+        </option>
+      </select>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
